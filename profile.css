@@ -1,0 +1,23 @@
+body{
+    background-color:black;
+}
+#a{
+    background-color:yellow;height:40px;width:auto;
+}
+#a1{
+    font-size:30px;
+}
+#c{
+    background-color:yellow;color:black;
+
+}
+#b{
+ margin-top:15px;   
+ 
+}
+a{
+    color:red;
+}
+img{
+    border-radius:50%;
+}
